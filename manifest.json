@@ -1,0 +1,82 @@
+{
+    "name": "Marvel News",
+    "short_name": "Marvel News",
+    "icons": [
+      {
+        "src": "images/icons/128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/167.png",
+        "sizes": "167x167",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/180.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/196.png",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "images/icons/256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "images/maskable_icon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "images/maskable_icon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ],
+
+    "screenshots" : [
+        {
+          "src": "images/print-pc.png",
+          "sizes": "1280x720",
+          "type": "image/webp",
+          "platform": "wide",
+          "label": "Tela inicial dos personagens"
+        },
+        {
+          "src": "images/print-pc-filme.png",
+          "sizes": "1280x720",
+          "type": "image/webp",
+          "platform": "wide",
+          "label": "Tela inicial dos filmes"
+        }
+      ],
+
+      
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#2e3141",
+    "theme_color": "#4D5360"
+  }
