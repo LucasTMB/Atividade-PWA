@@ -4,17 +4,17 @@ Atividade realizada em sala de aula, onde deviamos pegar um template do site HTM
 
 ## Passo a passo:
 
-1º Usei como referência o template Solid State do site HTML5 UP (https://html5up.net/);  
+1º Usei como referência o template Solid State do site [HTML5 UP](https://html5up.net/);  
 2° Fiz alterações usando o Universo Cinematográfico da Marvel como base;  
 3º Verifiquei se o projeto estava responsivo e adequado para o padrão mobile;  
 4º Testei o projeto no lighthouse/Audits e otimizei as imagens visando melhorar o desempenho;  
-5º Criei um ícone do projeto e o gerei em diferentes tamanhos utilizando o site App Icon Generator (https://appicon.co/);  
-6º Subi o projeto no Netlify e rodei uma auditoria do lighthouse/Audits para verificar o que falta para se tornar um PWA;  
-7º Utilizei o Pwa Builder (https://www.pwabuilder.com/) como referência;  
+5º Criei um ícone do projeto e o gerei em diferentes tamanhos utilizando o site [App Icon Generator](https://appicon.co/);  
+6º Subi o projeto no [Netlify](https://www.netlify.com/) e rodei uma auditoria do lighthouse/Audits para verificar o que falta para se tornar um PWA;  
+7º Utilizei o [Pwa Builder](https://www.pwabuilder.com/) como referência;  
 8º Criei o arquivo manifest.json;  
 9º Criei o arquivo service-worker.js;  
 10º Linkei os arquivos criados com o index.html;  
-11º Atualizei o projeto no Netlify;  
+11º Atualizei o projeto no [Netlify](https://www.netlify.com/);  
 12º Auditei novamente o projeto no lighthouse/Audits para verificar se já está sendo considerado um PWA;  
 
 ## Direitos reservados ao HTML5 UP
