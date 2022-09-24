@@ -10,7 +10,7 @@ Atividade realizada em sala de aula, onde deviamos pegar um template do site HTM
 4º Testei o projeto no lighthouse/Audits e otimizei as imagens visando melhorar o desempenho;  
 5º Criei um ícone do projeto e o gerei em diferentes tamanhos utilizando o site [App Icon Generator](https://appicon.co/);  
 6º Subi o projeto no [Netlify](https://www.netlify.com/) e rodei uma auditoria do lighthouse/Audits para verificar o que falta para se tornar um PWA;  
-7º Utilizei o [Pwa Builder](https://www.pwabuilder.com/) como referência;  
+7º Utilizei o [PWA Builder](https://www.pwabuilder.com/) como referência;  
 8º Criei o arquivo manifest.json;  
 9º Criei o arquivo service-worker.js;  
 10º Linkei os arquivos criados com o index.html;  
